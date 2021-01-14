@@ -1,8 +1,10 @@
 # AI RADIO
 
+<p align=left>
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained Yes" />
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask me Anything" />
+</p>
 
 This is an beautiful UI and AI based Radio Application made using flutter.
 
