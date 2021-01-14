@@ -8,8 +8,7 @@
 
 This is an beautiful UI and AI based Radio Application made using flutter.
 
-![](https://github.com/aamit2267/music-guru-radio-app/assets/music-guru-1.png)
-![](https://github.com/aamit2267/music-guru-radio-app/assets/music-guru-2.png)
+![](https://github.com/aamit2267/music-guru-radio-app/blob/master/assets/music-guru-2.png)
 
 ## Getting Started
 
