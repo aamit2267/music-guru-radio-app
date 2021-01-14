@@ -45,6 +45,5 @@ After all these setups, you are ready to go! start debugging your application by
 
 - [@impawan](https://github.com/impawan) - Pawan Kumar (GDE-Flutter)
 
-<p align="center">
+
 Made By [Amit Agarwal](https://github.com/aamit2267) @2021
-</p>
